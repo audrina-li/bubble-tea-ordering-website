@@ -9,5 +9,5 @@ Functionalities:
 - apply for franchising 
 - etc. 
 
-Demo:
+Demo:  
 [Demo.mp4](https://user-images.githubusercontent.com/76263086/126850772-0948a921-f012-43fc-a82e-74c6a12e1a24.mp4)
