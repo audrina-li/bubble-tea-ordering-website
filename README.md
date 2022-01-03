@@ -1,4 +1,4 @@
-# bubble-tea-ordering-website
+# Bubble-Tea-Ordering-Website
 Functionalities: 
 - browse through the menu by different categories
 - view the best selling items 
